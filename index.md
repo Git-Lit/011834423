@@ -1,3 +1,7 @@
+---
+layout: default
+title: Around Tonkin and Siam
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
